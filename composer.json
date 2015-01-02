@@ -1,0 +1,9 @@
+{
+    "name": "koodimonni/mu-plugins",
+    "type": "wordpress-muplugin",
+    "description": "Small fixes and optimisations with wordpress",
+    "authors": {
+        "name": "Onni Hakala / Koodimonni"
+    },
+    "minimum-stability": "dev"
+}
