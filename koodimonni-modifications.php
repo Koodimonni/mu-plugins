@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Koodimonni Hosting tweaks
-Version: 0.1
+Version: 0.1.1
 Description: Contains small tweaks which make default wordpress behaviour little better
 Author: Onni Hakala / Koodimonni
 Author URI: http://koodimonni.fi
