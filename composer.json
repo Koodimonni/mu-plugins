@@ -2,6 +2,7 @@
     "name": "koodimonni/mu-plugins",
     "type": "wordpress-muplugin",
     "description": "Small fixes and optimisations with wordpress",
+    "license": "MIT",
     "authors": [
         {
             "name": "Onni Hakala",
